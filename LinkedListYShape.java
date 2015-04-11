@@ -1,4 +1,3 @@
-
 public class LinkedListYShape {
 
 	public static void main(String argv[])
