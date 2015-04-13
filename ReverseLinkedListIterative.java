@@ -1,4 +1,3 @@
-
 public class ReverseLinkedListIterative {
 
 	public static void main(String argv[])
