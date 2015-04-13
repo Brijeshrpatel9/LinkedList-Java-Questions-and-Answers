@@ -73,7 +73,12 @@ public class ReverseKNodes {
 		}
 	}
 }
+/*
 Problem
+
 Reverse every k nodes in a linked list and return the head appropriately.
+
 Solution
-We will use a reverse function which reverses k nodes from head and return kth node as head. We will use this function recursively to reverse every k nodes.
+
+We will use a reverse function which reverses k nodes from head and return kth node as head. 
+We will use this function recursively to reverse every k nodes.
