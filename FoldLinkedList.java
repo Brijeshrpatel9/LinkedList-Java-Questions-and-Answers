@@ -1,4 +1,3 @@
-
 public class FoldLinkedList {
 
 	public static void main(String argv[])
