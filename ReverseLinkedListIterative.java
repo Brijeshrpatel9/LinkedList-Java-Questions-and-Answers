@@ -64,3 +64,7 @@ public class ReverseLinkedListIterative {
 	}
 
 }
+Problem
+Reverse a linked list
+Solution
+Keep track of the previous node as you move forward. link that node in next iteration. This code is self explanatory.
