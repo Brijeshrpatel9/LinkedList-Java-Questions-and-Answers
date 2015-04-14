@@ -1,4 +1,3 @@
-
 public class LinkedListKthElementFromEnd {
 	
 	public static void main(String argv[])
