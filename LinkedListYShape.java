@@ -79,6 +79,5 @@ public class LinkedListYShape {
 			next = n;
 			return n;
 		}
-		
 	}
 }
