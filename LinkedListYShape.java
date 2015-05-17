@@ -61,7 +61,6 @@ public class LinkedListYShape {
 		{
 			System.out.println("LinkedList are not merged.");
 		}
-		
 	}
 
 	static class Node {
@@ -82,5 +81,4 @@ public class LinkedListYShape {
 		}
 		
 	}
-
 }
